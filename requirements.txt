@@ -1,1 +1,2 @@
 streamlit==1.50.0
+google-cloud-logging>=3.5.0
